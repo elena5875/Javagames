@@ -3,10 +3,12 @@
 body {
     font-family: 'Poppins', sans-serif;
     background: blue;
-   }
+   
+
+}
 
 .background {
-   background-image: url("./assets/images/harrypotterlogo.png");
+    background-image: url("/assets/images/harrypotterwallpaper.jpg");
 height: 900px;
     background-position: center;
     background-repeat: no-repeat;
