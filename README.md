@@ -9,7 +9,8 @@ Background and Heading: The background of the website is the Heading also which 
 
 Game Area
 
-The game area is in the middle of the screen and should be in front of the Heading words. There is a transparent background so that the user can easily read and answer the questions being asked.
+The game area is in the middle of the screen and should be in front of the Heading words. 
+There is a transparent background so that the user can easily read and answer the questions being asked.
 
 score area
     After the user has answered all the question, It will show the number of correct answer you made.
