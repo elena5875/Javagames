@@ -60,3 +60,4 @@ Credits
     Images were downloaded from this website:
 
     Harry Potter logo : https://hdqwalls.com/wallpaper/1360x768/harry-potter-hogwarts-mystery-game-logo
+    https://www.pexels.com/photo/scarf-and-eyeglasses-on-the-table-3151954/
