@@ -36,7 +36,7 @@
 
 #### The mistake has been corrected already.
 
-##     CSS: I had my CSS code validated thru w3 validator. It showede 1 warning and 1 Error
+##     CSS: I had my CSS code validated thru w3 validator. It showed 1 warning and 1 Error
 ##   The warning was that imported style sheets are not checked in direct input and file upload modes
 
 ##   The Error was  height Too many values or values are not recognized : 850 px
@@ -44,6 +44,7 @@
 ##    The Error was corrected afterwards.
 
  ##   JavaScript
+  
 
 # Unfixed bugs
 ## The image that was supposed to be part of the header and background would fail to come up in github. 
