@@ -13,14 +13,14 @@
 ## The game area is in the middle of the screen and should be in front of the Heading words. 
 ## There is a transparent background so that the user can easily read and answer the questions being asked.
 
-#### Score Area
+# Score Area
  ##   After the user has answered all the question, It will show the number of correct answer you made.
  ##   If you made a mistake, there is an icon that you can click and you can show you the right answer.
  ##   It will also have an option for you to retry the question again.
 
- #### Testing
+ # Testing
 
-#### Validation:
+# Validation:
   ##  Html: The following Errors were seen during validation using w3 html Vaildator:
 
   ##   Warning: Consider adding a lang attribute to the html start tag to declare the language of this document.
@@ -45,16 +45,16 @@
 
  ##   JavaScript
 
-#### Unfixed bugs
+# Unfixed bugs
 ## The image that was supposed to be part of the header and background would fail to come up in github. 
 ## However, in my IDE the background is there. I do not know how to debug this since the knowledge
 ## that I know so far is that does not solve this issue.
 
-#### Deployment
+# Deployment
 
     ## My work is being deployed at git hug
 
-#### Credits
+# Credits
 
    ### All my content from Html, javascript and css were all based on this program:
     
