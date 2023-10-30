@@ -1,4 +1,4 @@
-Games
+# Games
 
 ### A Questionaire game for those who are an avid fan of Harry Potter
  ## This website is an interactive game which test your knowledge when it comes to the Harry Potter Story
@@ -8,7 +8,7 @@ Games
 
 ### Background and Heading: The background of the website is the Heading also which says "Harry Potter Hogwarts Mystery"
 
-#### Game Area
+# Game Area
 
 ## The game area is in the middle of the screen and should be in front of the Heading words. 
 ## There is a transparent background so that the user can easily read and answer the questions being asked.
