@@ -61,7 +61,7 @@
 ##      Lighthouse Accessability Result
 
 ## The website was also run thru lighthouse and here is the result:
-![screenshot-mobile](assets/images/responsive.jpg) 
+![screenshot-mobile](assets/images/accesability.pdf) 
 
 # Deployment
 
