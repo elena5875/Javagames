@@ -44,6 +44,11 @@
 ##    The Error was corrected afterwards.
 
  ##   JavaScript
+ ## My Java script code was validated using [code beautify](https://codebeautify.org/jsvalidate) 
+ ## It showed two errors which is 
+ ## Unexpected 'const'. const quizData = [
+ ## and the other one is Stopping. (0% scanned).
+ 
   
 
 # Unfixed bugs
@@ -53,7 +58,7 @@
 
 # Deployment
 
-    ## My work is being deployed at git hug
+## My work is being deployed at git hug
 
 # Credits
 
