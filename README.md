@@ -55,8 +55,9 @@
 
 # Unfixed bugs
 ## The image that was supposed to be part of the header and background would fail to come up in github. 
-## However, in my IDE the background is there. I do not know how to debug this since the knowledge
-## that I know so far is that does not solve this issue.
+## However, in my IDE the background image is present but when I pushed it on github and deploy it
+## the image does not appear. I do not know how to debug this since the knowledge
+## that I know so far is does not solve this issue.
 
 ##      Lighthouse Accessability Result
 
@@ -65,7 +66,7 @@
 
 # Deployment
 
-## My work is being deployed at git hug
+## My work is being deployed at github
 
 # Credits
 
