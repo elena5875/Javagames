@@ -58,6 +58,11 @@
 ## However, in my IDE the background is there. I do not know how to debug this since the knowledge
 ## that I know so far is that does not solve this issue.
 
+##      Lighthouse Accessability Result
+
+## The website was also run thru lighthouse and here is the result:
+![screenshot-mobile](assets/images/responsive.jpg) 
+
 # Deployment
 
 ## My work is being deployed at git hug
