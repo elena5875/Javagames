@@ -2,8 +2,7 @@
 
 body {
     font-family: 'Poppins', sans-serif;
-     background-image: url("./assets/images/Harrypotter.png");
-    background: blue;
+     background: url("./assets/images/Harrypotter.png");
 height: 900px;
     background-position: center;
     background-repeat: no-repeat;
