@@ -3,7 +3,8 @@
 body {
     font-family: 'Poppins', sans-serif;
     height: 900px;
-    background: url('./assets/images/harrypotterwallpaper.jpg') no-repeat center center / cover;
+    background: blue;
+    background-image: url('')
    }
 
 
