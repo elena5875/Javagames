@@ -4,9 +4,11 @@ body {
     font-family: 'Poppins', sans-serif;
     height: 900px;
     background: blue;
-    background-image: url('../images/harrypotterwallpaper.jpg');
+    
    }
-
+ .background {
+     background-image: url('../images/harrypotterwallpaper.jpg') no-repeat center/cover;
+ }
 
 .container {
     width: 500px;
