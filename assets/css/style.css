@@ -3,7 +3,7 @@
 body {
     font-family: 'Poppins', sans-serif;
     height: 900px;
-    background: blue;
+    background: url('./images/abacus.jpg') no-repeat top center / cover;
    }
 
 
