@@ -23,27 +23,10 @@
  # Testing
 
 # Validation:
-  ##  Html: The following Errors were seen during validation using w3 html Vaildator:
+  ##  Html: We used the W3validator for my html code. It showed no error in the validator
 
-  ##   Warning: Consider adding a lang attribute to the html start tag to declare the language of this document.
+##     CSS: I had my CSS code validated thru w3 validator. 
 
-
-  ##  Info: Trailing slash on void elements has no effect and interacts badly with unquoted attribute values.
-
-   ##  <link rel="stylesheet" href="assests/css/style.css"/>↩  </h
-
-
- ##   Warning: Empty heading.
-  ##  <h1></h1>↩
-
-#### The mistake has been corrected already.
-
-##     CSS: I had my CSS code validated thru w3 validator. It showed 1 warning and 1 Error
-##   The warning was that imported style sheets are not checked in direct input and file upload modes
-
-##   The Error was  height Too many values or values are not recognized : 850 px
-
-##    The Error was corrected afterwards.
 
  ##   JavaScript
  ## My Java script code was validated using [code beautify](https://codebeautify.org/jsvalidate) 
