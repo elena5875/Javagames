@@ -2,16 +2,9 @@
 
 body {
     font-family: 'Poppins', sans-serif;
-     background-image: url ("./images/harrypotterwallpaper.jpg");
     height: 900px;
     background: blue;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    position: relative;
-    display: flex;
-    justify-content: center;
-}
+   }
 
 
 .container {
